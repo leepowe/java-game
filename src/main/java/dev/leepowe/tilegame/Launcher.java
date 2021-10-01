@@ -4,6 +4,6 @@ import dev.leepowe.tilegame.display.Display;
 
 public class Launcher {
     public static void main(String[] args) {
-        new Display("Tile Game", 300, 300);
+        new Game("Tile Game", 400, 400);
     }
 }
